@@ -6,6 +6,11 @@
 - local git repository uploaded to GitHub per: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/  
   - `git remote add origin https://github.com/mixelpixel/C-Video-Tutorial.git`  
   - `git push -u origin master`  
+- System Version:	macOS 10.12.5 (16F73)
+- Kernel Version:	Darwin 16.6.0
+- Processor Name:	Intel Core i7 (2GHz)
+- Terminal.app v.2.7.2 (388.1)
+- Atom.io
 
 </p></details>
 
