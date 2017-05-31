@@ -1,5 +1,14 @@
-# Derek Banas' "[C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
-- Published between Jul 19, 2013 and Sep 9, 2013
+# Derek Banas's "[C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)"
+
+<details><summary> Click for more info:</summary><p>
+
+- Videos published to YouTube between Jul 19, 2013 and Sep 9, 2013  
+- local git repository uploaded to GitHub per: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/  
+  - `git remote add origin https://github.com/mixelpixel/C-Video-Tutorial.git`  
+  - `git push -u origin master`  
+
+</p></details>
+
 ## [How To Install `gcc`](https://youtu.be/8Ib7nwc33uA)
 >  Get the Step-by-Step List Here : http://goo.gl/Kd6jhf
 >  
